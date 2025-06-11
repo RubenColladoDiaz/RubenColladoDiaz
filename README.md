@@ -31,9 +31,7 @@ I'm Ruben Collado, a passionate Cross-Platform Application and Videogames Develo
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenColladoDiaz&theme=dark&layout=compact" width="410" /></p>
 
 ------
-Credit: [NavodyaPasqual](https://github.com/NavodyaPasqual)
 
-Last Edited on: 11/06/2025
 
 <!--
 **RubenColladoDiaz/RubenColladoDiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
